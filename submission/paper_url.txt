@@ -1,1 +1,2 @@
 PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/k9Sx3CC/01_first_look_and_discovery.ipynb/blob/main/work/capstone_report.md
